@@ -1,0 +1,16 @@
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\bin\Debug\netcoreapp3.1\TesteApp.exe
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\bin\Debug\netcoreapp3.1\TesteApp.deps.json
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\bin\Debug\netcoreapp3.1\TesteApp.runtimeconfig.json
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\bin\Debug\netcoreapp3.1\TesteApp.runtimeconfig.dev.json
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\bin\Debug\netcoreapp3.1\TesteApp.dll
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\bin\Debug\netcoreapp3.1\TesteApp.pdb
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\bin\Debug\netcoreapp3.1\dinamodotnet.dll
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\bin\Debug\netcoreapp3.1\dinamodotnet.pdb
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\obj\Debug\netcoreapp3.1\TesteApp.csprojAssemblyReference.cache
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\obj\Debug\netcoreapp3.1\TesteApp.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\obj\Debug\netcoreapp3.1\TesteApp.AssemblyInfoInputs.cache
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\obj\Debug\netcoreapp3.1\TesteApp.AssemblyInfo.cs
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\obj\Debug\netcoreapp3.1\TesteApp.csproj.CopyComplete
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\obj\Debug\netcoreapp3.1\TesteApp.dll
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\obj\Debug\netcoreapp3.1\TesteApp.pdb
+C:\Users\joser\source\repos\TesteDinamo\ConsoleApp1\obj\Debug\netcoreapp3.1\TesteApp.genruntimeconfig.cache

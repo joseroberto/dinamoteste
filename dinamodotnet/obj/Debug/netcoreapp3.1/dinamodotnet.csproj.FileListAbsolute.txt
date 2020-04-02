@@ -1,0 +1,8 @@
+C:\Users\joser\source\repos\TesteDinamo\dinamodotnet\bin\Debug\netcoreapp3.1\dinamodotnet.deps.json
+C:\Users\joser\source\repos\TesteDinamo\dinamodotnet\bin\Debug\netcoreapp3.1\dinamodotnet.dll
+C:\Users\joser\source\repos\TesteDinamo\dinamodotnet\bin\Debug\netcoreapp3.1\dinamodotnet.pdb
+C:\Users\joser\source\repos\TesteDinamo\dinamodotnet\obj\Debug\netcoreapp3.1\dinamodotnet.csproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\TesteDinamo\dinamodotnet\obj\Debug\netcoreapp3.1\dinamodotnet.AssemblyInfoInputs.cache
+C:\Users\joser\source\repos\TesteDinamo\dinamodotnet\obj\Debug\netcoreapp3.1\dinamodotnet.AssemblyInfo.cs
+C:\Users\joser\source\repos\TesteDinamo\dinamodotnet\obj\Debug\netcoreapp3.1\dinamodotnet.dll
+C:\Users\joser\source\repos\TesteDinamo\dinamodotnet\obj\Debug\netcoreapp3.1\dinamodotnet.pdb

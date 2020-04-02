@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TesteApp/1.0.0": {
+        "dependencies": {
+          "dinamodotnet": "1.0.0"
+        },
+        "runtime": {
+          "TesteApp.dll": {}
+        }
+      },
+      "dinamodotnet/1.0.0": {
+        "runtime": {
+          "dinamodotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dinamodotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
